@@ -5,5 +5,5 @@ tags={
 	"Military"
 }
 name="Infantry equipment conversion"
-supported_version="1.12.*"
+supported_version="1.14.*"
 remote_file_id="2980402831"
